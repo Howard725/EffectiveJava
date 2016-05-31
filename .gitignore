@@ -64,6 +64,8 @@ fabric.properties
 
 ### Intellij Patch ###
 *.iml
+## Directory-based project format:
+.idea/
 
 
 ### Eclipse ###
